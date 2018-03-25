@@ -483,3 +483,281 @@ LogInit: Object subsystem initialized
 [2018.03.25-22.37.02:543][668]LogEditorActor: Deleted Actor: TextRenderActor
 [2018.03.25-22.37.02:551][668]LogEditorActor: Deleted 1 Actors (0.009 secs)
 [2018.03.25-22.37.03:890][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.03.25-22.39.32:672][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-22.39.32:935][905]LogSavePackage: Save=125.26ms
+[2018.03.25-22.39.32:935][905]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/SideScrollerExampleMap9F8A62D14892A1C034290EA2AED6A18D.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.03.25-22.39.32:938][905]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.03.25-22.39.33:191][905]LogSavePackage: Save=214.40ms
+[2018.03.25-22.39.33:191][905]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/SideScrollerExampleMap_BuiltData6F9700874F7EBF7A8EA481BC4D393EB2.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2018.03.25-22.39.33:193][905]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2018.03.25-22.42.22:521][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.03.25-22.42.22:792][810]LogEditorViewport: Clicking on Actor (LMB): TriggerBoxTest_Trust_C (TriggerBoxTest_Trust)
+[2018.03.25-22.42.39:007][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge6)
+[2018.03.25-22.42.39:628][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge5)
+[2018.03.25-22.42.40:439][881]Cmd: EDIT COPY
+[2018.03.25-22.42.40:601][900]Cmd: EDIT PASTE
+[2018.03.25-22.42.48:352][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge10)
+[2018.03.25-22.42.48:963][893]Cmd: EDIT COPY
+[2018.03.25-22.42.49:124][912]Cmd: EDIT PASTE
+[2018.03.25-22.42.51:666][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge7)
+[2018.03.25-22.42.53:351][410]Cmd: EDIT COPY
+[2018.03.25-22.42.53:504][428]Cmd: EDIT PASTE
+[2018.03.25-22.42.58:864][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.25-22.42.59:591][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge11)
+[2018.03.25-22.43.00:376][230]Cmd: EDIT COPY
+[2018.03.25-22.43.00:543][250]Cmd: EDIT PASTE
+[2018.03.25-22.43.14:981][976]Cmd: EDIT COPY
+[2018.03.25-22.43.15:168][998]Cmd: EDIT PASTE
+[2018.03.25-22.43.19:088][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge9)
+[2018.03.25-22.43.19:800][544]Cmd: EDIT COPY
+[2018.03.25-22.43.19:967][564]Cmd: EDIT PASTE
+[2018.03.25-22.43.23:862][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge9)
+[2018.03.25-22.43.24:425][ 89]Cmd: EDIT COPY
+[2018.03.25-22.43.24:578][107]Cmd: EDIT PASTE
+[2018.03.25-22.43.29:282][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge12)
+[2018.03.25-22.43.31:516][924]Cmd: EDIT COPY
+[2018.03.25-22.43.31:783][956]Cmd: EDIT PASTE
+[2018.03.25-22.43.38:063][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge9)
+[2018.03.25-22.43.39:001][810]Cmd: EDIT COPY
+[2018.03.25-22.43.39:135][826]Cmd: EDIT PASTE
+[2018.03.25-22.43.46:117][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge14)
+[2018.03.25-22.43.49:560][ 50]Cmd: EDIT COPY
+[2018.03.25-22.43.49:752][ 73]Cmd: EDIT PASTE
+[2018.03.25-22.43.52:701][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.03.25-22.46.15:782][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge15)
+[2018.03.25-22.46.16:439][659]Cmd: EDIT COPY
+[2018.03.25-22.46.16:626][681]Cmd: EDIT PASTE
+[2018.03.25-22.46.29:331][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Spikes2)
+[2018.03.25-22.46.30:067][253]Cmd: EDIT COPY
+[2018.03.25-22.46.30:270][277]Cmd: EDIT PASTE
+[2018.03.25-22.46.58:810][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge15)
+[2018.03.25-22.47.01:585][966]Cmd: EDIT COPY
+[2018.03.25-22.47.01:802][992]Cmd: EDIT PASTE
+[2018.03.25-22.47.04:083][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.03.25-22.47.05:455][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge20)
+[2018.03.25-22.47.08:491][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge25)
+[2018.03.25-22.47.09:882][932]Cmd: EDIT COPY
+[2018.03.25-22.47.10:060][953]Cmd: EDIT PASTE
+[2018.03.25-22.47.13:531][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge24)
+[2018.03.25-22.47.22:844][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge23)
+[2018.03.25-22.47.25:781][806]Cmd: EDIT COPY
+[2018.03.25-22.47.25:948][826]Cmd: EDIT PASTE
+[2018.03.25-22.47.29:634][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge30)
+[2018.03.25-22.47.30:244][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge31)
+[2018.03.25-22.47.30:931][409]Cmd: EDIT COPY
+[2018.03.25-22.47.31:082][427]Cmd: EDIT PASTE
+[2018.03.25-22.47.33:967][768]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.25-22.49.10:847][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge28)
+[2018.03.25-22.49.11:481][453]Cmd: EDIT COPY
+[2018.03.25-22.49.11:641][472]Cmd: EDIT PASTE
+[2018.03.25-22.49.18:753][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge35)
+[2018.03.25-22.49.18:922][317]Cmd: EDIT COPY
+[2018.03.25-22.49.19:088][337]Cmd: EDIT PASTE
+[2018.03.25-22.49.23:247][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge36)
+[2018.03.25-22.49.23:693][879]Cmd: EDIT COPY
+[2018.03.25-22.49.23:852][898]Cmd: EDIT PASTE
+[2018.03.25-22.49.29:576][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge37)
+[2018.03.25-22.49.31:029][730]Cmd: EDIT COPY
+[2018.03.25-22.49.31:197][750]Cmd: EDIT PASTE
+[2018.03.25-22.49.35:088][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge39)
+[2018.03.25-22.49.35:997][308]Cmd: DELETE
+[2018.03.25-22.49.35:997][308]Cmd: ACTOR DELETE
+[2018.03.25-22.49.35:998][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-22.49.36:007][308]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.03.25-22.49.36:273][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge38)
+[2018.03.25-22.49.36:401][351]Cmd: DELETE
+[2018.03.25-22.49.36:401][351]Cmd: ACTOR DELETE
+[2018.03.25-22.49.36:402][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-22.49.36:410][351]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.03.25-22.49.36:687][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge37)
+[2018.03.25-22.49.36:773][390]Cmd: DELETE
+[2018.03.25-22.49.36:773][390]Cmd: ACTOR DELETE
+[2018.03.25-22.49.36:775][390]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-22.49.36:783][390]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.03.25-22.49.39:791][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Spikes3)
+[2018.03.25-22.49.40:591][842]Cmd: EDIT COPY
+[2018.03.25-22.49.40:766][863]Cmd: EDIT PASTE
+[2018.03.25-22.50.42:406][ 59]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.25-22.50.44:853][331]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.25-22.50.45:180][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Spikes4)
+[2018.03.25-22.50.54:352][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-22.51.11:527][476]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2018.03.25-22.51.17:068][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-22.51.17:126][113]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.25-22.51.17:134][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.51.17:134][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.25-22.51.17:167][113]PIE: New page: PIE session: SideScrollerExampleMap (Mar 26, 2018, 8:51:17 PM)
+[2018.03.25-22.51.17:167][113]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.03.25-22.51.17:179][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012017s)
+[2018.03.25-22.51.17:180][113]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.03.25-22.51.17:180][113]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2018.03.25-22.51.17:180][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013095s)
+[2018.03.25-22.51.17:201][113]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.03.25-22.51.17:229][113]LogInit: FAudioDevice initialized.
+[2018.03.25-22.51.17:291][113]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.03.25-22.51.17:314][113]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.03.26-09.51.17
+[2018.03.25-22.51.17:340][113]LogWorld: Bringing up level for play took: 0.040429
+[2018.03.25-22.51.17:435][113]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.25-22.51.17:436][113]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1.095
+[2018.03.25-22.51.17:436][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.51.19:041][300]LogBlueprintUserMessages: [TriggerBoxTest_2] Take the higher path
+[2018.03.25-22.51.19:712][381]LogBlueprintUserMessages: [TriggerBoxTest_Trust_2] Trust us
+[2018.03.25-22.51.40:950][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.51.40:984][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.51.44:794][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Spikes4)
+[2018.03.25-22.51.47:447][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge12)
+[2018.03.25-22.51.50:020][980]Cmd: EDIT COPY
+[2018.03.25-22.51.50:171][998]Cmd: EDIT PASTE
+[2018.03.25-22.51.53:976][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.03.25-22.51.54:551][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Spikes4)
+[2018.03.25-22.51.57:878][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge40)
+[2018.03.25-22.51.58:619][983]Cmd: DELETE
+[2018.03.25-22.51.58:619][983]Cmd: ACTOR DELETE
+[2018.03.25-22.51.58:621][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-22.51.58:630][983]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.03.25-22.52.00:840][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-22.52.00:890][253]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.25-22.52.00:898][253]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.52.00:898][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.25-22.52.00:898][253]PIE: New page: PIE session: SideScrollerExampleMap (Mar 26, 2018, 8:52:00 PM)
+[2018.03.25-22.52.00:898][253]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.03.25-22.52.00:910][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011708s)
+[2018.03.25-22.52.00:911][253]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.03.25-22.52.00:911][253]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2018.03.25-22.52.00:911][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.012432s)
+[2018.03.25-22.52.00:931][253]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.03.25-22.52.00:955][253]LogInit: FAudioDevice initialized.
+[2018.03.25-22.52.00:984][253]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.03.25-22.52.00:986][253]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2018.03.26-09.52.00
+[2018.03.25-22.52.00:986][253]LogWorld: Bringing up level for play took: 0.001633
+[2018.03.25-22.52.00:987][253]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.646
+[2018.03.25-22.52.00:987][253]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.52.02:051][379]LogBlueprintUserMessages: [TriggerBoxTest_2] Take the higher path
+[2018.03.25-22.52.02:935][485]LogBlueprintUserMessages: [TriggerBoxTest_Trust_2] Trust us
+[2018.03.25-22.52.15:936][ 45]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.52.15:966][ 45]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.03.25-22.52.25:022][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge23)
+[2018.03.25-22.52.25:679][201]Cmd: EDIT COPY
+[2018.03.25-22.52.25:863][223]Cmd: EDIT PASTE
+[2018.03.25-22.52.34:012][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge37)
+[2018.03.25-22.52.34:650][263]Cmd: EDIT COPY
+[2018.03.25-22.52.34:818][283]Cmd: EDIT PASTE
+[2018.03.25-22.52.54:410][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-22.52.54:583][185]LogSavePackage: Save=82.74ms
+[2018.03.25-22.52.54:583][185]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/SideScrollerExampleMap0E92275C4D94A5C202B7B99237B4CEE5.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.03.25-22.52.54:586][185]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.03.25-22.52.54:746][185]LogSavePackage: Save=136.83ms
+[2018.03.25-22.52.54:746][185]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/SideScrollerExampleMap_BuiltData4F5BB82240D0CB73429493974A2237BD.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2018.03.25-22.52.54:747][185]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2018.03.25-22.55.50:685][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge28)
+[2018.03.25-22.55.52:583][650]Cmd: EDIT COPY
+[2018.03.25-22.55.52:759][671]Cmd: EDIT PASTE
+[2018.03.25-22.56.00:289][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge36)
+[2018.03.25-22.56.00:908][636]Cmd: EDIT COPY
+[2018.03.25-22.56.01:066][655]Cmd: EDIT PASTE
+[2018.03.25-22.56.02:851][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge40)
+[2018.03.25-22.56.06:810][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge35)
+[2018.03.25-22.56.07:339][379]Cmd: EDIT COPY
+[2018.03.25-22.56.07:482][396]Cmd: EDIT PASTE
+[2018.03.25-22.56.12:656][ 12]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge40)
+[2018.03.25-22.56.13:243][ 78]Cmd: DELETE
+[2018.03.25-22.56.13:243][ 78]Cmd: ACTOR DELETE
+[2018.03.25-22.56.13:244][ 78]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-22.56.13:253][ 78]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.03.25-22.56.13:503][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge42)
+[2018.03.25-22.56.14:164][183]Cmd: EDIT COPY
+[2018.03.25-22.56.14:311][200]Cmd: EDIT PASTE
+[2018.03.25-22.56.23:074][243]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.25-22.57.36:235][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-22.57.44:168][850]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.03.25-22.57.45:184][850]LogSlate: Took 0.011817 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.25-22.57.45:404][851]LogSlate: Took 0.002233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.25-22.57.47:387][ 51]LogSlate: Window 'TriggerBoxTest_WantBest*' being destroyed
+[2018.03.25-22.57.57:429][250]BlueprintLog: New page: Compile TriggerBoxTest_WantBest
+[2018.03.25-22.57.58:589][370]LogSavePackage: Save=7.54ms
+[2018.03.25-22.57.58:589][370]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/TriggerBoxTest_WantBestD569ACCA44E8C5D1CE471CB84623701E.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/TEST_ASSETS/TriggerBoxTest_WantBest.uasset'
+[2018.03.25-22.57.58:590][370]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/TEST_ASSETS/TriggerBoxTest_WantBest.uasset
+[2018.03.25-23.00.52:470][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Basic_Spikes2)
+[2018.03.25-23.00.58:987][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.25-23.01.06:411][827]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.03.25-23.02.54:309][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.25-23.02.54:458][753]LogSavePackage: Save=104.59ms
+[2018.03.25-23.02.54:458][753]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/SideScrollerExampleMap_Auto199C7D0454AAC56CE673CB6BBE37A1287.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2018.03.25-23.02.54:460][753]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap
+[2018.03.25-23.02.54:462][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.138
+[2018.03.25-23.02.54:462][753]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.138
+[2018.03.25-23.02.54:464][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/TEST_ASSETS/Basic_Spikes] ([1] browsable assets)...
+[2018.03.25-23.02.54:473][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SideScrollerBP/TEST_ASSETS/Basic_Spikes.Basic_Spikes]
+[2018.03.25-23.02.54:473][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/TEST_ASSETS/Basic_Spikes]
+[2018.03.25-23.02.54:483][753]LogSavePackage: Save=9.06ms
+[2018.03.25-23.02.54:483][753]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Basic_Spikes_Auto1CD182D3E4EEF258288FC2D9F0063C3E0.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Basic_Spikes_Auto1.uasset'
+[2018.03.25-23.02.54:485][753]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Basic_Spikes_Auto1.uasset
+[2018.03.25-23.02.54:485][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike] ([1] browsable assets)...
+[2018.03.25-23.02.54:493][753]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike.Red_d_Spike]
+[2018.03.25-23.02.54:493][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike]
+[2018.03.25-23.02.54:503][753]LogSavePackage: Save=8.24ms
+[2018.03.25-23.02.54:503][753]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Red_d_Spike_Auto12E9543814E2DDA0C4B2F13B7A33E937D.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike_Auto1.uasset'
+[2018.03.25-23.02.54:504][753]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike_Auto1.uasset
+[2018.03.25-23.02.54:504][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/TEST_ASSETS/Spike1] ([1] browsable assets)...
+[2018.03.25-23.02.54:513][753]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SideScrollerBP/TEST_ASSETS/Spike1.Spike1]
+[2018.03.25-23.02.54:513][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/TEST_ASSETS/Spike1]
+[2018.03.25-23.02.54:522][753]LogSavePackage: Save=7.96ms
+[2018.03.25-23.02.54:522][753]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Spike1_Auto18A0E19B6420BFDE5CDC66A93B80189E5.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Spike1_Auto1.uasset'
+[2018.03.25-23.02.54:523][753]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Spike1_Auto1.uasset
+[2018.03.25-23.02.54:523][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike1] ([1] browsable assets)...
+[2018.03.25-23.02.54:532][753]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike1.Red_d_Spike1]
+[2018.03.25-23.02.54:532][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike1]
+[2018.03.25-23.02.54:541][753]LogSavePackage: Save=8.40ms
+[2018.03.25-23.02.54:542][753]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Red_d_Spike1_Auto12EEB867B4631EF4E203F0AAFC8701D1E.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike1_Auto1.uasset'
+[2018.03.25-23.02.54:543][753]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Red_d_Spike1_Auto1.uasset
+[2018.03.25-23.02.54:543][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/TEST_ASSETS/Spike] ([1] browsable assets)...
+[2018.03.25-23.02.54:552][753]OBJ SavePackage:     Rendered thumbnail for [Material /Game/SideScrollerBP/TEST_ASSETS/Spike.Spike]
+[2018.03.25-23.02.54:552][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/TEST_ASSETS/Spike]
+[2018.03.25-23.02.54:561][753]LogSavePackage: Save=8.08ms
+[2018.03.25-23.02.54:561][753]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Spike_Auto1B659C91648276919021036B0514BEAB6.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Spike_Auto1.uasset'
+[2018.03.25-23.02.54:563][753]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/Autosaves/Game/SideScrollerBP/TEST_ASSETS/Spike_Auto1.uasset
+[2018.03.25-23.02.54:563][753]LogFileHelpers: Auto-saving content packages took 0.100
+[2018.03.25-23.03.34:332][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge43)
+[2018.03.25-23.05.55:530][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-23.06.11:835][311]BlueprintLog: New page: Compile TriggerBoxTest_Ganbare
+[2018.03.25-23.06.12:463][366]LogSavePackage: Save=7.25ms
+[2018.03.25-23.06.12:463][366]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/TriggerBoxTest_Ganbare640590F9433A69BF0A9484B61354B491.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/TEST_ASSETS/TriggerBoxTest_Ganbare.uasset'
+[2018.03.25-23.06.12:466][366]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/TEST_ASSETS/TriggerBoxTest_Ganbare.uasset
+[2018.03.25-23.06.28:221][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge36)
+[2018.03.25-23.06.29:006][280]Cmd: EDIT COPY
+[2018.03.25-23.06.29:200][303]Cmd: EDIT PASTE
+[2018.03.25-23.06.32:994][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-23.06.44:608][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge36)
+[2018.03.25-23.06.45:562][234]Cmd: EDIT COPY
+[2018.03.25-23.06.45:775][259]Cmd: EDIT PASTE
+[2018.03.25-23.06.48:655][599]Cmd: EDIT PASTE
+[2018.03.25-23.06.51:007][876]Cmd: EDIT PASTE
+[2018.03.25-23.06.54:237][257]Cmd: EDIT PASTE
+[2018.03.25-23.06.57:503][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge46)
+[2018.03.25-23.07.04:497][455]Cmd: DELETE
+[2018.03.25-23.07.04:497][455]Cmd: ACTOR DELETE
+[2018.03.25-23.07.04:499][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-23.07.04:516][455]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.03.25-23.07.04:851][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge45)
+[2018.03.25-23.07.04:968][500]Cmd: DELETE
+[2018.03.25-23.07.04:969][500]Cmd: ACTOR DELETE
+[2018.03.25-23.07.04:970][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-23.07.04:987][500]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.03.25-23.07.05:233][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge44)
+[2018.03.25-23.07.05:325][535]Cmd: DELETE
+[2018.03.25-23.07.05:325][535]Cmd: ACTOR DELETE
+[2018.03.25-23.07.05:327][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.25-23.07.05:344][535]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.03.25-23.07.07:477][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge42)
+[2018.03.25-23.07.08:236][864]Cmd: EDIT COPY
+[2018.03.25-23.07.08:405][884]Cmd: EDIT PASTE
+[2018.03.25-23.07.16:397][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge35)
+[2018.03.25-23.07.17:011][868]Cmd: EDIT COPY
+[2018.03.25-23.07.17:177][887]Cmd: EDIT PASTE
+[2018.03.25-23.08.41:128][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.25-23.08.41:358][959]LogSavePackage: Save=107.36ms
+[2018.03.25-23.08.41:358][959]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/SideScrollerExampleMapECE0D0FE442A25DA0B667DB38FE707C3.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.03.25-23.08.41:361][959]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.03.25-23.08.41:534][959]LogSavePackage: Save=140.36ms
+[2018.03.25-23.08.41:534][959]LogSavePackage: Moving 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Saved/SideScrollerExampleMap_BuiltData2D3D3777483910232366BFAEBD34BAB4.tmp' to 'C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2018.03.25-23.08.41:536][959]LogSavePackage: Display: Finished SavePackage C:/Users/User/Documents/GitHub/GDS220OneHappyFamily/Control 4.19/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
